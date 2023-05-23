@@ -1,11 +1,3 @@
-<!--
- * @Author: hcs
- * @Date: 2023-03-29 14:58:41
- * @LastEditTime: 2023-04-18 14:52:16
- * @LastEditors: Do not edit
- * @Description: Modify here please
- * @FilePath: \git_program\FEStudy\手写代码\手写 new.md
--->
 ### new 
 
 function create() {

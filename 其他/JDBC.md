@@ -1,11 +1,3 @@
-<!--
- * @Author: hcs
- * @Date: 2023-03-28 17:15:10
- * @LastEditTime: 2023-03-30 17:41:34
- * @LastEditors: Do not edit
- * @Description: Modify here please
- * @FilePath: \git_program\FEStudy\其他\JDBC.md
--->
 ### JDBC 基操
 
 

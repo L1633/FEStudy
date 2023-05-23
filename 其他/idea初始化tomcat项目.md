@@ -1,19 +1,3 @@
-<!--
- * @Author: hcs
- * @Date: 2023-03-23 18:52:50
- * @LastEditTime: 2023-04-17 13:41:34
- * @LastEditors: Do not edit
- * @Description: Modify here please
- * @FilePath: \git_program\FEStudy\其他\idea初始化tomcat项目.md
--->
-<!--
- * @Author: hcs
- * @Date: 2023-03-23 18:52:50
- * @LastEditTime: 2023-03-27 11:03:06
- * @LastEditors: Do not edit
- * @Description: Modify here please
- * @FilePath: \git_program\FEStudy\其他\idea初始化tomcat项目.md
--->
 ## IDEA 社区版创建 web 项目
 https://www.cnblogs.com/yjh1995/p/13894961.html
 
